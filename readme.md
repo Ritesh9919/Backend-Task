@@ -10,7 +10,7 @@
  ## :rocket: Getting Started
 
 1. Clone this repository;
-`https://github.com/hiteshchoudhary/chai-aur-react.git`
+`https://github.com/Ritesh9919/Backend-Task.git`
 
 2. Navigate to project directory using `cd folder name`.
 
